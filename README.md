@@ -1,7 +1,5 @@
-# Statistics-Ethics-Cohort
-Undergraduate Statistics Ethics Research Cohort
-
-Collaborated with Yunfei Li
+# Undergraduate Statistics Ethics Research Cohort
+## Authours: Yutong Lu, Yunfei Li
 
 ## Responsibilities
 
